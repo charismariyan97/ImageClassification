@@ -29,5 +29,10 @@ Dense layer / fully connected layer, is used in the final stage of the neural ne
 - Training the Model (Checking the loss, accuracy, train and validation)
 - Upload and Predict Images
 
+## Video Presentation
+A short video presentation about the project:
+
+https://drive.google.com/file/d/1QXip28K_iTpakSrikryTUvmFTiH0C5hN/view?usp=sharing
+
 ##
 #DataScienceProject #DataScience #Bootcamp #achineLearning #DeepLearning #NeuralNetwork #ImageClassification #RockPaperScissors #DataAnalyst #DataPreparation #DataPreProcessing #EDA #CallbacksFunction #Modeling #ImagePrediction #ImageRecognition #CNN #Convolutional #Pooling #ReLU #Algorithm 
